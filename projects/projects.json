@@ -1,0 +1,22 @@
+[
+    {
+    "name": "Stock-prediction-using-AI",
+    "desc": "It predicts the stock in the stock market",
+    "image": "AI",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Covid-Website",
+    "desc": "This websoite is based upon covid-19",
+    "image": "Covid-19",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
